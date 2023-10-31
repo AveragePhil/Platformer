@@ -14,6 +14,7 @@
     {"id":{"name":"obj_invisiblewall","path":"objects/obj_invisiblewall/obj_invisiblewall.yy",},"order":1,},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},"order":7,},
     {"id":{"name":"spr_clouds","path":"sprites/spr_clouds/spr_clouds.yy",},"order":6,},
+    {"id":{"name":"spr_background2","path":"sprites/spr_background2/spr_background2.yy",},"order":9,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
