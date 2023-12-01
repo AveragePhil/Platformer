@@ -64,5 +64,8 @@ else
 
 if (hsp != 0) image_xscale = sign(hsp);
 
-
+if (sign(hsp) != 0 or sign(vsp) != 0) 
+{
+	effect_create_below(ef_flare, x, y, 1, c_white);
+}
 

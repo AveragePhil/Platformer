@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_button_help",
+  "name": "obj_button_controls",
   "spriteId": {
     "name": "spr_button",
     "path": "sprites/spr_button/spr_button.yy",
@@ -32,7 +32,7 @@
   ],
   "properties": [],
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"value":"Help",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"value":"Controls",},
   ],
   "parent": {
     "name": "Objects",

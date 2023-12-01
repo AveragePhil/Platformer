@@ -21,7 +21,7 @@
     {"id":{"name":"spr_walls","path":"sprites/spr_walls/spr_walls.yy",},"order":5,},
     {"id":{"name":"obj_invisiblewall","path":"objects/obj_invisiblewall/obj_invisiblewall.yy",},"order":1,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":16,},
-    {"id":{"name":"obj_button_help","path":"objects/obj_button_help/obj_button_help.yy",},"order":7,},
+    {"id":{"name":"obj_button_controls","path":"objects/obj_button_controls/obj_button_controls.yy",},"order":7,},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},"order":7,},
     {"id":{"name":"spr_clouds","path":"sprites/spr_clouds/spr_clouds.yy",},"order":6,},
     {"id":{"name":"spr_background2","path":"sprites/spr_background2/spr_background2.yy",},"order":9,},
